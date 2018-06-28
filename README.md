@@ -1,2 +1,5 @@
 # hello-world-2
-Hello world repository
+
+Hello there,
+
+Not much to see here.
